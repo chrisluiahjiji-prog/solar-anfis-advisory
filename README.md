@@ -6,7 +6,7 @@
 
 
 
-## What this is
+# What this is
 
 A locally-calibrated solar output prediction and advisory tool built on an
 Adaptive Neuro-Fuzzy Inference System (ANFIS). Rather than stopping at a
@@ -20,7 +20,7 @@ is reimplemented in plain JavaScript so the dashboard can fetch live
 weather and compute fresh predictions directly in the browser — no server,
 no MATLAB, no manual data refresh required.
 
-## Core model
+# Core model
 
 - **Inputs:** temperature, relative humidity, wind speed (daily)
 - **Output:** solar irradiance (kWh/m²/day) — a direct proxy for panel output
@@ -31,7 +31,7 @@ no MATLAB, no manual data refresh required.
 - **Validation:** chronological 80/20 train/test split (never randomly
   shuffled, since this is a time series)
 
-## Accuracy vs. baselines (Kochi)
+# Accuracy vs. baselines (Kochi)
 
 | Model | RMSE | MAE |
 |---|---|---|
@@ -39,7 +39,7 @@ no MATLAB, no manual data refresh required.
 | Naive (tomorrow = today) | 1.008 | 0.739 |
 | Linear Regression | 0.920 | 0.702 |
 
-## Accuracy by location
+# Accuracy by location
 
 | Location | RMSE | MAE |
 |---|---|---|
@@ -51,7 +51,7 @@ no MATLAB, no manual data refresh required.
 Accuracy tracks local climate stability — drier, less coastal locations
 predict more reliably than humid, coastal ones.
 
-## The five add-on features
+# The five add-on features
 
 1. **Monsoon-aware confidence flag** — every prediction is tagged
    High/Low confidence based on season and recent weather variability.
@@ -68,7 +68,7 @@ predict more reliably than humid, coastal ones.
    *"Today's lower-than-average output is mainly due to high humidity
    and low wind."*
 
-## The live dashboard
+# The live dashboard
 
 The dashboard is a single self-contained HTML file with no backend:
 
@@ -87,7 +87,7 @@ The dashboard is a single self-contained HTML file with no backend:
 - Falls back gracefully to a static snapshot if live fetching isn't
   available (e.g. no internet connection)
 
-## Repository contents
+# Repository contents
 
 ```
 solar_split.m           Core pipeline: load, clean, split, train, evaluate,
@@ -104,7 +104,7 @@ forecast_data_*.csv     Snapshot forecasts per location
 index.html              The live dashboard
 ```
 
-## Tools & technology
+# Tools & technology
 
 - MATLAB with the Fuzzy Logic Toolbox (ANFIS Editor)
 - NASA POWER Data Access Viewer / API for historical weather and solar data
@@ -112,7 +112,7 @@ index.html              The live dashboard
 - Vanilla JavaScript + HTML5 Canvas for the dashboard (no external
   dependencies at runtime)
 
-## Why this is novel
+# Why this is novel
 
 Most undergraduate ANFIS solar projects stop at reporting a single
 accuracy metric. This project keeps the core prediction task simple and
