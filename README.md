@@ -4,7 +4,7 @@
 
 🔗 **Live dashboard:** https://chrisluiahjiji-prog.github.io/solar-anfis-advisory/
 
----
+
 
 ## What this is
 
@@ -31,7 +31,7 @@ no MATLAB, no manual data refresh required.
 - **Validation:** chronological 80/20 train/test split (never randomly
   shuffled, since this is a time series)
 
-### Accuracy vs. baselines (Kochi)
+## Accuracy vs. baselines (Kochi)
 
 | Model | RMSE | MAE |
 |---|---|---|
@@ -39,7 +39,7 @@ no MATLAB, no manual data refresh required.
 | Naive (tomorrow = today) | 1.008 | 0.739 |
 | Linear Regression | 0.920 | 0.702 |
 
-### Accuracy by location
+## Accuracy by location
 
 | Location | RMSE | MAE |
 |---|---|---|
