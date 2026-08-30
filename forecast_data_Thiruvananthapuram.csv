@@ -1,0 +1,17 @@
+Date,Temp,Humidity,Wind,PredictedIrradiance,Confidence,Explanation
+2026-08-30,26.2,86,3.77,4.92648370579245,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-08-31,25.9,88,4.58,5.29120453212698,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2026-09-01,26.1,87,4.37,5.29898457163334,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-09-02,26.1,88,3.31,4.48619372675304,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-09-03,25.9,88,3.28,4.32175194996612,Low confidence,Lower-than-average output is mainly due to high humidity and low wind and cooler temperature.
+2026-09-04,26.5,86,3.41,4.73720210824904,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-09-05,26.6,86,3.16,4.6444365265358,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-09-06,26.5,88,3.01,4.58210917000202,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-09-07,26.9,84,3.5,4.9869935085168,Low confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026-09-08,27.1,82,4.22,5.26566728703877,Low confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026-09-09,26.7,84,4.12,5.23207319032292,Low confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026-09-10,26.7,84,4.33,5.29272945934184,Low confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026-09-11,26.6,81,4.4,5.37936076717491,Low confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026-09-12,26.5,78,4.59,5.51105491720091,Low confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026-09-13,26.1,79,4.19,5.56526693467593,Low confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026-09-14,27,72,4.97,6.24322316474443,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.

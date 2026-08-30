@@ -1,0 +1,479 @@
+Year,Month,Day,Temperature,Humidity,WindSpeed,ActualIrradiance,PredictedIrradiance,Confidence,Explanation
+2025,3,29,29.59,70.9,2.81,6.3802,6.67701573384851,High confidence,Higher-than-average output is mainly due to high temperature.
+2025,3,30,29.72,68.14,2.54,6.5059,6.62839239180229,High confidence,Higher-than-average output is mainly due to high temperature.
+2025,3,31,29.6,70.59,2.87,6.0886,6.74232186128876,High confidence,Higher-than-average output is mainly due to high temperature.
+2025,4,1,28.69,74.15,2.58,5.7648,5.95857711197968,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,4,2,27.42,82.05,1.71,2.4175,5.12840429366004,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,4,3,28.16,75.62,1.6,5.6722,5.68381945502053,Low confidence,Higher-than-average output is mainly due to low wind.
+2025,4,4,28.53,74.99,2.21,6.7121,5.90037080253069,Low confidence,Higher-than-average output is mainly due to low wind.
+2025,4,5,28.14,77.76,1.79,5.6777,5.6836552534653,Low confidence,Higher-than-average output is mainly due to low wind.
+2025,4,6,28.42,77.79,2.2,6.8767,5.75881567226823,Low confidence,Higher-than-average output is mainly due to low wind.
+2025,4,7,29.07,75.36,2.24,6.541,6.17782598438239,Low confidence,Higher-than-average output is mainly due to low wind.
+2025,4,8,29.28,73.86,1.86,6.228,6.29193926825204,Low confidence,Higher-than-average output is mainly due to low wind and high temperature.
+2025,4,9,28.69,76.06,2.08,6.3475,6.00582175227019,High confidence,Higher-than-average output is mainly due to low wind.
+2025,4,10,28.06,78.87,2.47,6.0312,5.3375375661583,High confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2025,4,11,28.21,76.92,2.4,4.8953,5.54375367836842,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,4,12,28.15,76.12,2.46,6.69,5.50444517622124,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,4,13,29.24,73.26,2.95,6.7279,6.60585428072172,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,4,14,29.14,74.71,2.93,6.3734,6.42646998216602,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,4,15,29.22,73.54,2.54,6.8383,6.27914444845949,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,4,16,29.22,69.6,1.85,6.6998,6.30291691878906,High confidence,Higher-than-average output is mainly due to low wind.
+2025,4,17,28.47,75.85,2.26,6.5287,5.82104170932406,High confidence,Higher-than-average output is mainly due to low wind.
+2025,4,18,28.39,77.98,2.5,6.3314,5.60283669497776,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,4,19,28.62,76.41,2.69,6.5042,5.80669902098156,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,4,20,28.6,78.61,2.64,6.0084,5.72796859743831,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,4,21,29.2,76.97,2.62,6.5621,6.1254243365195,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,4,22,29.44,75.4,2.57,6.6883,6.23603136781383,High confidence,Higher-than-average output is mainly due to high temperature.
+2025,4,23,29.02,75.72,3.04,5.957,6.38716409508236,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,4,24,29.06,77.09,2.95,6.6288,6.19970029153373,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,4,25,29.32,79.71,3.15,5.6294,5.96559067290939,High confidence,Higher-than-average output is mainly due to high temperature.
+2025,4,26,29.33,80.92,2.74,6.168,5.7857122532476,High confidence,Higher-than-average output is mainly due to high temperature.
+2025,4,27,28.78,81.86,2.61,5.5956,5.83882256568047,High confidence,Higher-than-average output is mainly due to high humidity.
+2025,4,28,28.45,83.47,2.52,5.8363,5.57142553414209,High confidence,Higher-than-average output is mainly due to high humidity.
+2025,4,29,29.19,78.87,2.02,6.3574,5.96872947469548,High confidence,Higher-than-average output is mainly due to low wind.
+2025,4,30,28.51,84.97,2.65,6.455,5.64639537888159,High confidence,Higher-than-average output is mainly due to high humidity.
+2025,5,1,28.84,82.81,2.56,4.835,5.83672606581366,High confidence,Higher-than-average output is mainly due to high humidity.
+2025,5,2,28.82,81.26,2.54,6.1039,5.8614875387962,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,5,3,28.98,77.19,3.09,5.0568,6.26614269464613,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,5,4,29.25,76.68,2.74,6.7874,6.17138702013838,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,5,5,29.47,76.17,2.26,5.6938,6.24290179110629,High confidence,Higher-than-average output is mainly due to low wind and high temperature.
+2025,5,6,29.08,77.27,3.06,7.2667,6.28490136579792,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,5,7,29.06,76.4,3.64,6.7579,7.24460395120447,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,5,8,29.15,72.66,4.48,7.0279,5.41254322187935,High confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2025,5,9,28.97,69.58,4.11,7.3231,6.45056912134757,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,5,10,28.91,71.65,3.49,6.8287,7.19028987357023,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,5,11,29.03,76.65,3.02,7.0822,6.28355879320749,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,5,12,28.88,80.57,3.12,6.8299,5.9076393551868,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,5,13,28.21,84.99,3.3,5.3292,4.94399532245733,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,5,14,28.29,81.76,3.81,5.231,5.14255501306839,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,5,15,28.5,80.08,2.57,4.9082,5.64205806324038,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,5,16,29.18,77.18,2.84,6.0526,6.1627251286139,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,5,17,28.52,76.9,3.2,4.8746,5.8988494786434,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,5,18,27.41,78.4,2.52,5.003,4.98745221266705,High confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2025,5,19,27.23,87.06,5.41,4.9502,2.05509580042192,High confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2025,5,20,26.78,88.14,7.73,2.1101,0.86647202116722,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2025,5,21,27.94,78.09,5.17,2.9525,0,Low confidence,Lower-than-average output is mainly due to strong wind.
+2025,5,22,28.61,77.38,3.67,4.9414,6.40263726484279,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,5,23,28.51,82.99,4.38,3.6115,5.77485962188565,Low confidence,Higher-than-average output is mainly due to high humidity.
+2025,5,24,28.18,84.05,5.55,1.2526,3.37312613580192,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2025,5,25,27.6,85.8,6.16,2.5754,0.225342349884422,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2025,5,26,27.64,84.38,6.02,0.9406,0,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2025,5,27,27.94,89.94,6.04,2.7254,1.83128707715904,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2025,5,28,27.83,89.27,6.34,3.1553,1.71258764744368,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2025,5,29,27.61,84.09,6.01,1.7292,0,High confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2025,5,30,26.95,85.23,6.05,0.8647,0,High confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2025,5,31,27.25,86.18,4.76,4.5934,2.74146779237345,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,1,27.45,86.52,3.76,5.9054,3.96690665734143,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,2,27.48,87.17,3.24,5.4624,4.43976592459746,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,3,27.68,87.09,2.9,4.6445,4.77685327413455,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,4,26.94,83.21,2.15,5.7,4.8371501882591,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,6,5,27.17,82.62,3.13,6.4589,4.68930439533668,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,6,27.29,86.39,3.86,6.5707,3.92983622364535,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,7,27.35,85.81,3.74,6.5758,4.07649322661188,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,8,27.56,86.15,4.83,6.3439,2.87236670117805,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,9,27.44,84.56,4.72,5.8253,2.58231476727407,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,10,27.36,86.1,4.9,4.788,2.56720159365342,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,11,27.07,89.94,4.85,2.8375,2.66505977714715,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,12,26.54,89.04,5.61,3.5779,2.42216752792776,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2025,6,13,26.75,87.93,6.24,2.8788,1.50258661937205,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2025,6,14,26.56,88.68,5.7,1.5919,2.27086123796061,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2025,6,15,26.55,85.6,6.19,1.4131,0,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2025,6,16,26.64,87.57,5.04,2.6448,2.67693234163687,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2025,6,17,26.86,91.13,3.7,1.8206,3.67397897185753,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,18,26.85,91.16,2.87,4.3716,4.48833853627229,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,19,26.98,90.95,3.32,3.8362,4.05854247154082,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,20,26.93,90.42,3.93,4.98,3.5039200195245,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,21,27.02,89.24,4.6,5.1341,3.0070349128008,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,22,27.12,87.09,4.04,3.7339,3.7726297810571,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,23,26.69,91.27,3.38,3.3038,4.17897000970127,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,24,26.94,90.66,4.11,4.019,3.21209863788344,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,25,26.76,92.38,3.59,2.5596,3.56405113186146,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,26,26.61,91.89,3.51,1.8598,3.95958250008511,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,27,26.4,92.57,2.8,3.4819,4.51985144051497,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,28,26.63,92.21,3.47,3.017,3.89995328325376,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,29,26.63,90.67,3.39,5.1209,4.35120987700206,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,6,30,26.36,91.33,3.29,3.4766,4.47531667876478,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,1,26.36,91.12,3.34,2.9107,4.48186313301386,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,2,25.89,90.71,3.23,1.8319,4.59604152117794,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,3,25.98,87.33,3.12,4.5528,5.0677098102452,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,4,26.1,87.26,3.51,3.1874,4.94231811970994,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,5,26.16,90.76,3.06,2.7749,4.74151753726263,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,6,26.43,91.2,3.67,2.3952,4.12093063368767,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,7,26.36,90.88,3.85,2.8236,4.05654626900228,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,8,26.33,90.66,4,4.0135,3.95971923193655,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,9,26.37,90.16,4.3,4.621,3.68958745799986,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,10,26.38,90.3,4.35,4.3572,3.59238267144683,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,11,26.45,90.69,4.27,3.9461,3.54463519710396,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,12,26.16,91.62,4.15,4.8202,3.6148975556884,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,13,26.14,91.98,4.6,3.3307,2.91790665432948,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,14,25.84,91.14,3.29,3.1085,4.46269203356221,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,15,25.7,91.73,4.31,2.1946,3.38655847082776,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,16,25.79,93.04,4.96,1.8998,2.0324169840267,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,17,25.67,91.85,5.28,3.6907,1.99725669305451,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2025,7,18,25.74,91.87,5.76,2.5207,1.7507349524696,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2025,7,19,25.46,92.61,6.54,1.8293,2.29345851885362,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2025,7,20,25.26,91.83,4.95,1.997,2.36055391648359,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2025,7,21,25.35,90.89,3.62,2.8344,3.83935510655402,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,22,25.71,91.76,3.18,3.6521,4.30990105692839,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,23,25.48,92.09,4.48,3.6074,3.03191614519224,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,24,25.26,90.72,4.15,2.669,3.45033810721519,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2025,7,25,25.38,90.06,4.23,4.1393,3.49373935324697,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,26,25.17,91.78,4.79,1.3037,2.62304982755639,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2025,7,27,25.33,91.24,3.39,4.0987,3.86271634573204,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,28,25.46,91.41,4.03,5.3719,3.62829956353131,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,29,25.68,89.99,4.64,5.6839,3.20439994829461,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,30,25.79,91.8,3.68,5.2308,4.05192360331356,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,7,31,25.9,91.91,3.87,4.3339,3.89446247587211,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,8,1,25.65,91.93,3.88,4.0142,3.7849882103734,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,8,2,25.47,92.04,4.99,2.6837,2.27198296213487,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,8,3,25.29,93.53,5.04,5.4221,1.88098100730861,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind and cooler temperature.
+2025,8,4,25.44,93.85,5.07,5.7372,1.60256472837247,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2025,8,5,25.06,94.81,5.54,1.944,1.10790705742513,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind and cooler temperature.
+2025,8,6,25.26,90.28,5.09,4.6366,2.21216727048607,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind and cooler temperature.
+2025,8,7,25.32,92.29,3.91,4.0793,3.51879199221086,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,8,8,25.26,92.17,3.39,3.9943,3.66979640751049,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2025,8,9,25.15,92.02,3.63,5.0738,3.54715458424221,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2025,8,10,25.01,89.59,2.78,4.5096,4.02590419700113,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2025,8,11,25.02,85.38,2.36,3.1128,4.7344463166221,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2025,8,12,25.12,86.03,3.07,4.5391,4.29076004810068,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2025,8,13,24.79,88.79,3.4,2.9606,3.4461879238741,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2025,8,14,25.21,89.77,3.14,3.3595,3.97753966367597,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2025,8,15,25.18,89.54,4.14,2.6587,3.39073317619916,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2025,8,16,25.15,93.45,4.04,2.579,3.29608660539434,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2025,8,17,25.13,92.49,4.4,1.6788,3.1174350222411,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2025,8,18,24.75,91.43,3.91,3.4082,3.50851201138865,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2025,8,19,25.22,90.96,3.42,3.7385,3.75421291298768,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2025,8,20,25.26,87.67,2.84,5.5126,4.46688588166573,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2025,8,21,25.51,88.92,2.89,5.9393,4.60428936269333,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,8,22,25.39,92.09,3.04,5.7377,3.98580891830779,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,8,23,25.59,89.32,3.22,4.4503,4.50572377110268,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,8,24,25.84,86.8,3.76,6.7642,4.64845142557187,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,8,25,25.66,86.97,3.54,5.3333,4.64030840318911,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,8,26,25.96,87.97,3.52,5.1718,4.83404828285351,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,8,27,25.73,89.83,4.29,1.6198,3.73796362190012,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,8,28,25.58,92.43,4.67,1.3546,2.68798686950959,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,8,29,25.75,90.14,3.55,3.221,4.40569295390444,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,8,30,25.96,89.94,4.13,4.4818,4.02614225158412,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,8,31,25.71,91.83,4.11,4.1345,3.60710449924535,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,1,25.59,91.34,4.37,4.8122,3.34355935019596,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,2,25.58,89.58,4.18,5.6033,3.77197499124196,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,3,25.59,90.93,4.03,3.0662,3.78562444488279,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,4,25.67,90.82,3.87,3.9317,4.00372463507387,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,5,25.67,90.38,3.41,4.183,4.37244441806989,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,6,25.89,89.73,3.19,5.857,4.75523206400388,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,7,25.91,89.19,3.78,5.9328,4.47617981483179,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,8,25.84,88.18,3.38,6.595,4.8165844164728,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,9,26.24,87.71,3.13,6.4423,5.07118799980849,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,10,26.35,87.52,3.47,4.5437,4.91468635703999,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,11,25.97,88.22,3.93,5.1031,4.45824286875827,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,12,26.11,86.87,4.2,6.2791,4.20084139698242,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,13,26.19,87.24,3.72,6.3161,4.77590227608224,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,14,26.04,86.28,2.59,6.0989,5.06790221256695,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,15,25.98,87.48,3.34,5.8195,4.98509676521515,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,16,25.89,89.95,3.55,4.8401,4.53690123369027,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,17,25.75,92.04,3.93,4.3994,3.76227109775542,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,18,25.75,91.6,4.69,5.243,2.89732070557659,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,19,25.87,88.74,2.64,5.8349,4.94440315660474,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,20,26.17,86.69,2.91,5.4998,5.14154401333635,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,21,26.15,88.47,3.49,5.5855,4.8521741275579,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,22,26.09,88.85,3.43,4.56,4.83940827386924,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,23,25.93,88.09,3.12,3.5556,4.98237343173398,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,24,25.73,88.04,3.04,5.2524,4.86179334629099,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,25,25.88,87.13,2.84,5.6412,5.05891193144887,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,26,26.02,88.98,3.61,5.3273,4.6871574469665,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,27,25.92,89.58,3.99,4.452,4.22428832387351,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,28,26.33,88.04,3.78,4.8437,4.61862700718367,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,29,26.55,85.46,4.31,5.5889,3.74889496471951,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,9,30,26.19,86.66,3.5,5.4898,4.98733244015699,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,1,26.38,86.43,3.07,4.5739,5.11433804263272,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,2,26.6,86.93,2.78,4.6942,4.98083800182954,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,3,26.76,86.26,2.43,6.1543,4.8439991036094,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,4,26.72,83.53,2.3,5.8747,4.83758574440533,High confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,10,5,26.41,87.29,2.49,6.4457,4.92937155866927,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,6,26.3,85.06,3.82,6.707,4.68766026286363,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,7,26.45,83.3,3.73,6.407,4.67363180426391,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,8,26.74,86.09,2.48,6.0974,4.86688897974496,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,9,26.32,87.56,2.01,5.6803,4.75923214704063,High confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,10,10,26.6,91.62,3.47,5.13,4.08294106166655,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,11,26.07,91.81,3.32,4.8818,4.40945027019481,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,12,26.77,86.59,1.85,6.2071,4.74532770956071,High confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,10,13,26.97,85.99,2.64,5.0878,4.85216343866564,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,14,27.22,87.17,2.6,5.059,4.79119710020582,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,15,27.44,86.63,2.75,4.1489,4.79169858274783,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,16,27.27,86.38,2.05,4.6781,4.84338856726421,High confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,10,17,27.59,85.66,1.91,5.9251,4.94646171657715,High confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,10,18,26.99,89.48,2.01,4.4033,4.75901917260786,High confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,10,19,26.91,86.88,2,4.8574,4.76233736892371,High confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,10,20,26.03,88.52,2.02,5.1624,4.86087385147952,High confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,10,21,26.1,88.27,2.67,3.9835,5.01028119136529,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,22,25.94,88.87,2.6,2.0902,4.95068348115388,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,23,26.73,85.52,2.89,4.2247,4.96679660799735,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,24,26.95,82.58,2.98,3.6626,4.82804616219481,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,25,27.23,83.67,2.67,4.6092,4.83587759189565,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,26,27.39,84.76,2.94,5.0753,4.74384953107913,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,27,26.13,91.64,3.31,1.5132,4.45415992954986,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,28,26.54,87.73,3.61,3.7411,4.6819644571926,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,29,26.65,85.87,3.75,4.8886,4.55285826712072,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,30,26.77,83.53,2.66,5.8346,4.92045746419487,Low confidence,Lower-than-average output is mainly due to high humidity.
+2025,10,31,26.97,79.03,2.49,6.1183,4.92444590464854,Low confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2025,11,1,26.4,78.4,2.83,6.3938,5.13976232756503,Low confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2025,11,2,25.92,80.39,3.12,6.247,5.39269038604805,Low confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2025,11,3,26.5,85.99,3.93,5.9657,4.44111148952595,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,11,4,26.41,86.13,4.56,4.6164,3.41251153016991,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,11,5,26.35,85.72,4.67,5.813,3.13878556025549,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,11,6,25.64,80.16,3.71,6.3161,5.33870513284424,High confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2025,11,7,25.16,81.39,3.54,6.0578,4.6562363960001,High confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2025,11,8,26.21,84.06,3.09,4.6663,5.20500989531911,High confidence,Lower-than-average output is mainly due to high humidity.
+2025,11,9,25.93,74.78,2.6,5.8032,5.60280846597045,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,11,10,25.81,78.05,1.89,4.4568,4.91193412160779,High confidence,Lower-than-average output is mainly due to low wind.
+2025,11,11,25.97,78.38,2.96,5.3018,5.49124170765474,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,11,12,26.67,79.79,2.07,4.5077,4.90872803227473,High confidence,Lower-than-average output is mainly due to low wind.
+2025,11,13,26.93,81.63,1.97,4.8094,4.88349377341428,High confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,11,14,26.14,90.6,1.54,3.5664,5.04323811725797,High confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,11,15,25.19,83.3,1.86,5.0364,4.71210797824147,High confidence,Lower-than-average output is mainly due to high humidity and low wind and cooler temperature.
+2025,11,16,26.4,77.62,1.93,5.1967,4.99120915786558,High confidence,Lower-than-average output is mainly due to low wind.
+2025,11,17,27.1,78.94,1.67,5.0081,5.0807372688553,High confidence,Lower-than-average output is mainly due to low wind.
+2025,11,18,26.73,81.62,1.98,4.0128,4.82211665004052,High confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,11,19,26.74,82.05,1.97,5.7425,4.8066600918373,High confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,11,20,26.59,80.51,1.95,5.5951,4.83618086167163,High confidence,Lower-than-average output is mainly due to low wind.
+2025,11,21,27.17,81.29,2.03,5.2774,4.98779499377449,High confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,11,22,27.12,82.17,1.41,3.7781,4.97809759665325,High confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,11,23,26.58,83.73,1.49,4.9646,4.68179111491739,High confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,11,24,26.77,80.54,1.92,4.1232,4.87650827940926,High confidence,Lower-than-average output is mainly due to low wind.
+2025,11,25,26.68,76.74,1.74,5.3974,5.06177086815233,High confidence,Lower-than-average output is mainly due to low wind.
+2025,11,26,26.58,74.69,1.71,5.039,5.18346687621943,High confidence,Lower-than-average output is mainly due to low wind.
+2025,11,27,26.27,71.42,1.92,5.2193,5.49525969565993,High confidence,Higher-than-average output is mainly due to low wind.
+2025,11,28,25.55,68.88,1.92,4.5278,5.62408462554684,High confidence,Higher-than-average output is mainly due to low wind.
+2025,11,29,25.51,66.93,1.72,4.2938,5.66246425778587,High confidence,Higher-than-average output is mainly due to low wind.
+2025,11,30,26.12,71.23,1.44,4.7002,5.3142515082065,High confidence,Lower-than-average output is mainly due to low wind.
+2025,12,1,26.4,77.4,1.67,5.4518,4.92140975152012,High confidence,Lower-than-average output is mainly due to low wind.
+2025,12,2,26.43,82.88,2.03,4.9987,4.75575278951695,High confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,12,3,26.04,82.2,1.44,3.191,4.55913803602032,High confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,12,4,26.54,82.01,1.95,4.537,4.76208836870512,High confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2025,12,5,26.95,77.46,1.42,4.7861,4.94888022942422,High confidence,Lower-than-average output is mainly due to low wind.
+2025,12,6,26.44,76.03,1.59,4.1345,4.99871068188453,High confidence,Lower-than-average output is mainly due to low wind.
+2025,12,7,26.18,73.19,1.91,5.3748,5.35042395877899,High confidence,Lower-than-average output is mainly due to low wind.
+2025,12,8,25.95,73.67,1.87,5.4158,5.2907975513792,High confidence,Lower-than-average output is mainly due to low wind.
+2025,12,9,25.5,66.21,2.14,5.6393,5.72332016867414,High confidence,Higher-than-average output is mainly due to low wind.
+2025,12,10,26.33,69.55,1.49,5.4113,5.3631472228542,High confidence,Lower-than-average output is mainly due to low wind.
+2025,12,11,25.84,65.41,2.3,5.4737,5.85422943847931,High confidence,Higher-than-average output is mainly due to low wind.
+2025,12,12,25.25,68.74,2.32,5.5807,5.82963748475682,High confidence,Higher-than-average output is mainly due to cooler temperature.
+2025,12,13,25.45,64.54,1.97,5.7878,5.65974942994167,High confidence,Higher-than-average output is mainly due to low wind.
+2025,12,14,24.99,62.95,2.26,5.7518,5.82017047357438,High confidence,Higher-than-average output is mainly due to low wind and cooler temperature.
+2025,12,15,25.01,61.59,1.82,5.7535,5.51366045039038,High confidence,Higher-than-average output is mainly due to low wind and cooler temperature.
+2025,12,16,24.91,70.67,2.54,5.449,6.15185317097956,High confidence,Higher-than-average output is mainly due to cooler temperature.
+2025,12,17,26.99,74.41,2.11,5.6786,5.33204233031864,High confidence,Lower-than-average output is mainly due to low wind.
+2025,12,18,25.65,62.3,2.04,5.5867,5.76387222535012,High confidence,Higher-than-average output is mainly due to low wind.
+2025,12,19,24.87,61.41,2.19,4.152,6.12108527567946,High confidence,Higher-than-average output is mainly due to low wind and cooler temperature.
+2025,12,20,24.91,68.21,2.15,4.8924,5.60887007323233,High confidence,Higher-than-average output is mainly due to low wind and cooler temperature.
+2025,12,21,24.91,65.95,2.28,5.2356,5.74214862550284,High confidence,Higher-than-average output is mainly due to low wind and cooler temperature.
+2025,12,22,25,65.74,1.91,5.2774,5.54562420079865,High confidence,Higher-than-average output is mainly due to low wind and cooler temperature.
+2025,12,23,24.83,67.01,2.1,5.5759,5.5738976372254,High confidence,Higher-than-average output is mainly due to low wind and cooler temperature.
+2025,12,24,25.08,68.02,2.05,5.6136,5.58811572385887,High confidence,Higher-than-average output is mainly due to low wind and cooler temperature.
+2025,12,25,25.09,68,2.16,5.5718,5.65948970807464,High confidence,Higher-than-average output is mainly due to low wind and cooler temperature.
+2025,12,26,25.57,67.82,2.22,5.275,5.76663889952949,High confidence,Higher-than-average output is mainly due to low wind.
+2025,12,27,26.13,66.26,2,5.3801,5.77296733288405,High confidence,Higher-than-average output is mainly due to low wind.
+2025,12,28,25.79,65.64,2.11,5.4151,5.76555574186555,High confidence,Higher-than-average output is mainly due to low wind.
+2025,12,29,25.99,69.84,2.49,5.2846,5.87827205110173,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2025,12,30,25.9,73.95,2.05,4.8866,5.32562585877092,High confidence,Lower-than-average output is mainly due to low wind.
+2025,12,31,25.7,76.41,2.75,4.2809,5.73851197740173,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,1,1,25.72,77.51,3.1,4.1239,5.85821897102994,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,1,2,25.44,77.91,1.93,4.9615,4.88898422803781,High confidence,Lower-than-average output is mainly due to low wind.
+2026,1,3,26.49,73.37,1.93,4.9282,5.3519364573322,High confidence,Lower-than-average output is mainly due to low wind.
+2026,1,4,26.39,68.97,2.19,5.2003,5.73311239531672,High confidence,Higher-than-average output is mainly due to low wind.
+2026,1,5,26.16,60.35,2.51,5.214,6.05971645022642,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,1,6,25.94,62.96,2.37,4.8199,5.90744127800505,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,1,7,26.3,64.8,2.09,5.1677,5.86935351085883,High confidence,Higher-than-average output is mainly due to low wind.
+2026,1,8,25.5,58.17,2.38,5.7259,6.73511692468406,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,1,9,25.68,58.14,2.3,6.0002,6.58411166726701,High confidence,Higher-than-average output is mainly due to low wind.
+2026,1,10,26.45,64.5,2.1,5.5519,5.9113254599423,High confidence,Higher-than-average output is mainly due to low wind.
+2026,1,11,26.46,70.47,1.93,3.8407,5.56561288822608,High confidence,Higher-than-average output is mainly due to low wind.
+2026,1,12,27.05,73.42,2.38,5.8524,5.35687941868798,High confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026,1,13,26.56,77.33,2.09,4.7134,5.05549168700324,High confidence,Lower-than-average output is mainly due to low wind.
+2026,1,14,26.71,75.61,1.83,4.3978,5.18020771292687,High confidence,Lower-than-average output is mainly due to low wind.
+2026,1,15,27.1,72.57,2.05,5.5778,5.49608525158893,High confidence,Higher-than-average output is mainly due to low wind.
+2026,1,16,26.83,70.74,2.4,5.0842,5.62431736245253,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,1,17,26.14,64.11,2.39,5.7895,5.97783482574113,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,1,18,25.59,67.26,2.55,5.5634,6.06861926188182,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,1,19,26.08,70.63,2.31,5.4413,5.68237556246961,High confidence,Higher-than-average output is mainly due to low wind.
+2026,1,20,25.82,69.38,2.49,5.7667,5.94774718480641,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,1,21,25.68,68.45,2.64,4.9342,6.19031406391081,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,1,22,25.89,63.11,2.73,5.5958,5.93772290424342,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,1,23,25.93,64.6,2.34,5.7266,5.89296443498211,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,1,24,26.26,65.22,1.96,6.0895,5.79761812486604,High confidence,Higher-than-average output is mainly due to low wind.
+2026,1,25,27.46,67.61,2.32,5.8577,5.97331985650743,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,1,26,27.27,71.46,2.12,5.8375,5.60448138889001,High confidence,Higher-than-average output is mainly due to low wind.
+2026,1,27,27.31,72.1,2.28,5.5992,5.53846074239349,High confidence,Higher-than-average output is mainly due to low wind.
+2026,1,28,27.35,71.28,2.27,5.6138,5.62054445508647,High confidence,Higher-than-average output is mainly due to low wind.
+2026,1,29,27.28,65.49,2.7,5.5514,6.36943157697253,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,1,30,26.93,64.34,2.47,4.7225,6.22697885469799,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,1,31,26.8,59.95,2.27,5.7257,6.24829272384126,High confidence,Higher-than-average output is mainly due to low wind.
+2026,2,1,27.06,56.93,2.45,6.0634,6.51218453268966,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,2,27.83,64.52,2.22,5.8082,6.21106236173605,High confidence,Higher-than-average output is mainly due to low wind.
+2026,2,3,27.53,63.27,2.4,5.2644,6.34339107945036,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,4,27.58,55.23,2.51,6.0398,6.58495885598293,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,5,27.13,55.32,2.74,6.5098,6.71945350752315,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,6,27.7,53.51,2.55,6.5294,6.66869436968849,High confidence,Higher-than-average output is mainly due to low humidity.
+2026,2,7,27.64,54.39,2.23,6.4438,6.50183164332341,High confidence,Higher-than-average output is mainly due to low wind.
+2026,2,8,27.15,59.22,2.36,6.2786,6.39883290607874,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,9,27.25,65.62,2.45,5.0575,6.17569039346385,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,10,27.65,67.61,2.36,5.7235,6.01858276472004,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,11,27.66,55.75,2.28,6.307,6.47310978880988,High confidence,Higher-than-average output is mainly due to low wind.
+2026,2,12,27.14,52.79,2.76,6.5285,7.19913779418222,High confidence,Higher-than-average output is mainly due to low humidity.
+2026,2,13,27.72,60.88,2.75,6.6048,6.68052461936512,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,14,28.21,59.84,2.7,6.3178,6.62370300735332,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,15,28.29,62.64,2.67,6.371,6.60272223285709,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,16,28.26,60.03,2.85,5.8358,6.6952950523801,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,17,28.1,57.97,2.36,5.5978,6.48129863888347,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,18,27.67,60.36,3.23,5.5152,6.79962557968439,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,19,28.28,63.14,2.54,5.9273,6.5053881807198,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,20,28.82,59.64,2.51,6.2597,6.55227068202851,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,21,28.7,66.97,2.39,5.7017,6.31735842048111,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,22,28.11,73.04,2.1,5.7989,5.77981248842981,High confidence,Higher-than-average output is mainly due to low wind.
+2026,2,23,28.25,70.77,2.16,5.8778,5.93090504301463,High confidence,Higher-than-average output is mainly due to low wind.
+2026,2,24,27.86,74.73,2.34,5.6837,5.47979565869635,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,25,27.83,74.4,3.59,5.8774,5.53108678201465,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,26,28.24,67.45,3.81,6.0948,7.14003902625791,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,27,27.95,63.27,3.89,6.4908,7.17488173687037,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,2,28,27.88,65.21,3.32,6.2374,7.03628312180582,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,1,27.61,66.15,3.02,7.0522,6.64125134869569,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,2,27.73,68.89,2.94,6.7778,6.22196083835466,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,3,28.23,67.89,2.78,6.5244,6.35658937977259,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,4,28.46,64.62,2.69,6.4819,6.55650995961311,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,5,28.57,69.42,2.78,5.8642,6.33473481980608,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,6,28.07,75.21,3.27,5.9023,5.59720715685436,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,7,28.06,73.96,2.93,5.6772,5.60210909734078,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,8,28.71,69.99,2.4,5.8238,6.16073250126481,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,9,28.91,68.4,2.23,5.791,6.2867981862603,High confidence,Higher-than-average output is mainly due to low wind.
+2026,3,10,28.83,59.9,2.9,6.4507,6.65935297452316,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,11,28.73,62.62,2.75,6.738,6.64619551923239,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,12,29.21,67.54,2.71,6.8225,6.59422055487579,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,13,28.98,66.72,2.38,6.4286,6.40481960670442,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,14,28.82,67.38,2.43,6.3151,6.34299057490516,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,15,28.43,70.92,2.51,6.2834,5.99822916453985,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,16,28.1,72.96,2.88,6.1831,5.73926503242606,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,17,28.46,69.99,2.63,6.1651,6.13132496353518,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,18,28.18,72.43,2.41,6.5849,5.76491240656698,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,19,28.15,67.79,2.63,7.4386,6.23108591037574,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,20,28.37,67.12,3.1,7.219,6.80490251353493,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,21,28.96,64.45,2.74,7.3346,6.63093659927222,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,22,29.26,66.58,2.63,6.8119,6.5804303638163,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,3,23,29.52,64.6,2.93,6.4174,6.74420760354796,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,3,24,29.41,64.88,2.9,7.1626,6.7412463589491,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,3,25,29.42,67.15,2.38,6.6053,6.51866075701369,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,3,26,30.01,65.19,2.44,6.9012,6.76583935213977,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,3,27,29.17,73.13,2.6,6.7591,6.29592579635536,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,28,27.93,79.73,2.57,5.8961,5.16939372101333,High confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,29,28.38,75.57,2.45,6.0823,5.69193380822835,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,3,30,28.82,73.06,1.91,4.4652,6.12921735116277,High confidence,Higher-than-average output is mainly due to low wind.
+2026,3,31,29.11,71.98,2.77,6.2518,6.435451514172,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,4,1,28.7,72.43,2.23,7.3337,6.05671688961929,High confidence,Higher-than-average output is mainly due to low wind.
+2026,4,2,28.52,74.05,2.44,6.2597,5.8551664036535,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,4,3,28.65,75.13,2.63,6.3595,5.88598423508407,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,4,4,27.95,80.04,2.94,5.573,5.00941028559462,High confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026,4,5,28.51,75.29,3.66,6.582,6.47893193858317,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,4,6,28.83,69.4,4.4,7.3099,5.31925209459098,High confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026,4,7,28.18,67.24,4.42,7.6786,6.17916933324442,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,4,8,28.47,70,3.75,7.5701,7.04661279591533,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,4,9,28.88,73.82,3.25,6.954,6.7265319107719,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,4,10,29.5,72.88,3.21,6.7051,7.00709950653213,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,4,11,28.52,78.68,2.78,5.5937,5.63271156433086,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,4,12,29.5,74.27,2.88,6.1963,6.48661402821236,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,4,13,29.52,74.03,3.07,6.5604,6.72207970685841,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,4,14,30.12,69.34,2.64,6.9094,6.69389316676,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,4,15,29.65,71.33,2.53,6.5407,6.48622403542222,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,4,16,29.68,71.04,2.91,6.5042,6.76169395794577,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,4,17,29.86,70.61,2.63,6.5174,6.59592179681807,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,4,18,30.13,70.39,2.67,6.4634,6.62632895589137,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,4,19,29.77,71.54,2.7,6.5861,6.57164755712863,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,4,20,29.68,69.17,2.8,6.7284,6.73705042923629,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,4,21,29.53,71.07,2.32,7.0111,6.41497334967538,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,4,22,30.12,69.4,2.63,6.8016,6.68591165399145,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,4,23,30.37,70.09,2.82,6.2815,6.65091141694943,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,4,24,29.56,73.27,2.36,6.0204,6.3539480291766,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,4,25,29.74,70.67,1.75,5.5075,6.33163906635466,High confidence,Higher-than-average output is mainly due to low wind and high temperature.
+2026,4,26,29.47,74.5,2.59,6.295,6.30156162375577,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,4,27,29.36,77.32,3.02,6.3838,6.247605269276,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,4,28,29.3,77.89,3.09,4.6742,6.24702454761882,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,4,29,29.31,76.09,2.52,6.2698,6.18804334933501,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,4,30,28.76,78.93,2.42,6.2647,5.88821632670146,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,5,1,28.32,81.5,2.61,6.5861,5.46343036944638,High confidence,Higher-than-average output is mainly due to high humidity.
+2026,5,2,29.03,78.65,3.11,6.6528,6.15529830274731,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,5,3,29.47,73.04,3.28,6.1721,7.09216723813353,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,5,4,29.38,74.64,2.93,6.7819,6.50082050005881,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,5,5,28.4,79.08,2.31,5.9969,5.66337567721867,High confidence,Higher-than-average output is mainly due to low wind.
+2026,5,6,29.93,73.86,3.34,6.8366,6.70020090521805,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,5,7,28.73,80.02,2.38,5.2282,5.84064377885986,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,5,8,28.63,79.97,2.03,6.155,5.73927508640891,High confidence,Higher-than-average output is mainly due to low wind.
+2026,5,9,27.97,82.73,2.38,5.5697,5.23110370017229,High confidence,Lower-than-average output is mainly due to high humidity.
+2026,5,10,29.29,75.42,2.53,5.573,6.21828479830046,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,5,11,29.16,77.62,2.64,5.9914,6.08499329968697,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,5,12,29.5,77.75,3.45,5.8445,6.66861253757123,High confidence,Higher-than-average output is mainly due to high temperature.
+2026,5,13,28.77,81.05,3.59,5.6306,6.01573806826799,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,5,14,29.04,80.04,3.66,5.3302,6.62032915484491,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,5,15,28.68,80.38,4.67,5.3729,6.98128539739737,High confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026,5,16,27.84,84.75,4.27,2.851,3.78298302837778,High confidence,Lower-than-average output is mainly due to high humidity.
+2026,5,17,28.28,84.87,4.09,4.5862,4.57140085892026,High confidence,Lower-than-average output is mainly due to high humidity.
+2026,5,18,27.25,89.3,2.68,2.8373,4.65778219132822,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,5,19,27.19,91.28,3.6,4.123,3.43160247112542,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,5,20,27.34,86.35,2.62,5.9155,4.82070908189242,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,5,21,28.22,83.94,2.89,5.8356,5.27731336729185,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,5,22,28.19,81.67,3.15,4.1129,5.12642754530754,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,5,23,27.61,85.56,3.31,4.1441,4.48233074639886,High confidence,Lower-than-average output is mainly due to high humidity.
+2026,5,24,27.97,87.12,5.19,3.4795,3.44323856644252,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2026,5,25,27.87,82.73,3.16,5.8678,4.79473847861154,High confidence,Lower-than-average output is mainly due to high humidity.
+2026,5,26,27.71,83.74,2.59,5.9222,4.98954076782215,High confidence,Lower-than-average output is mainly due to high humidity.
+2026,5,27,27.68,84.89,2.49,4.6092,4.98684174611421,High confidence,Lower-than-average output is mainly due to high humidity.
+2026,5,28,27.67,87.4,2.85,5.9131,4.79074929592034,High confidence,Lower-than-average output is mainly due to high humidity.
+2026,5,29,28.09,83.68,2.36,5.3755,5.27625764997364,High confidence,Lower-than-average output is mainly due to high humidity.
+2026,5,30,27.27,89.29,2.33,5.3748,4.71937883763559,High confidence,Lower-than-average output is mainly due to high humidity.
+2026,5,31,27.57,88.48,2.74,5.0386,4.74663869119076,High confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,1,27.86,83.68,2.38,5.1727,5.13520483064649,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,2,27.37,85.07,3.2,2.2774,4.59023391458419,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,3,27.38,79.98,3.08,3.2114,4.69727871352623,Low confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026,6,4,27.5,81.43,3.48,3.2294,4.44585985271275,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,5,27.76,83.4,4.62,1.0303,3.12759006123329,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,6,27.41,84.91,5.21,2.7262,1.49770741428019,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2026,6,7,26.81,82.77,3.41,4.831,4.71544316967731,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,8,27.11,84.52,4.59,3.7978,2.67284752594827,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,9,26.99,86.8,4.56,0.6778,3.16288766475179,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,10,27.18,84.67,3.75,4.4875,4.17395260520617,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,11,27.56,87.16,3.65,3.943,3.9928034866198,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,12,27.47,86.34,3.9,2.3638,3.82866078695958,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,13,27.44,86.74,4.17,3.8551,3.50428938011281,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,14,27.37,86.33,4.55,4.9013,3.08780415909561,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,15,27.74,86.47,4.56,5.778,3.30612426121828,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,16,27.81,85.54,4.53,5.3306,3.48267797924163,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,17,27.55,85.41,4.63,2.5034,3.02666558799633,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,18,27.21,83.3,4.02,3.8496,3.74332907133532,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,19,26.91,82.85,3.04,4.338,4.83674800263647,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,20,26.68,82.92,1.6,5.5435,4.72202778366943,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026,6,21,27.11,87.54,3.47,3.7774,4.34734506588271,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,22,26.52,88.34,3.74,1.7328,4.51302698762986,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,23,26.15,85.36,3.85,4.2914,4.69342697983617,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,24,26.81,82.94,2.83,3.1754,4.9138114203352,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,25,27,84.53,2.89,4.4573,4.84628548459299,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,26,26.98,86.73,3.09,4.123,4.75687659275468,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,27,27.02,87.35,3.17,4.4234,4.65573927455544,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,28,27.05,88.69,4.33,3.2114,3.32280213870076,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,29,26.51,86.61,4.84,1.9586,2.86379293616825,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,6,30,25.96,87.56,3.75,3.5477,4.68622971049581,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,7,1,25.76,87.57,3.46,2.4298,4.75621206361455,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,7,2,26.08,85.26,3.46,2.0522,5.06305940064736,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,7,3,26.15,90.37,3.97,1.4162,4.13331071822958,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,7,4,26.63,89.62,4.94,3.6103,2.92827633408032,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,7,5,26.82,86.78,5.37,4.5209,1.79837114305864,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2026,7,6,26.75,86.57,5.21,3.9574,2.0019950555707,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2026,7,7,26.92,87.65,5.24,5.0573,2.37850566101178,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2026,7,8,27,88.7,5.09,2.2274,2.69682944017627,Low confidence,Lower-than-average output is mainly due to high humidity and strong wind.
+2026,7,9,26.88,88.65,4.7,2.8272,3.08490219927097,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,7,10,26.76,88.48,4.41,2.8003,3.51200000694019,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,7,11,26.73,89.3,4.36,5.2306,3.49134913073046,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,7,12,26.66,86.71,4.2,5.6525,3.93678157753212,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,7,13,26.62,85.44,4.25,5.4931,3.8125451721697,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,7,14,26.61,83.72,4.12,5.6902,3.9114635693482,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,7,15,26.3,82.99,3.42,6.3158,5.05595280714983,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,7,16,26.46,84.51,3.04,3.8935,5.1110275087198,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,7,17,26.59,87.09,3.53,4.2706,4.76066423848048,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,7,18,26.37,88.45,3.76,4.4568,4.57652462170767,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026,7,19,26.49,89.07,3.52,2.7242,4.63375534520001,Low confidence,Lower-than-average output is mainly due to high humidity.

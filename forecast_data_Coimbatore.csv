@@ -1,0 +1,17 @@
+Date,Temp,Humidity,Wind,PredictedIrradiance,Confidence,Explanation
+2026-08-30,25.9,77,4.14,5.211904511338,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026-08-31,26.1,77,3.92,5.37131166481971,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026-09-01,25.9,80,3.67,5.36271726160644,Low confidence,Higher-than-average output is mainly due to high humidity.
+2026-09-02,25.9,81,3.83,5.24664181724611,Low confidence,Higher-than-average output is mainly due to high humidity.
+2026-09-03,25.6,81,4.08,5.11091869181584,Low confidence,Higher-than-average output is mainly due to high humidity.
+2026-09-04,25.6,83,3.35,5.19518807039161,Low confidence,Higher-than-average output is mainly due to high humidity.
+2026-09-05,26.1,80,3.53,5.41120499075752,Low confidence,Higher-than-average output is mainly due to high humidity.
+2026-09-06,26.4,79,3.58,5.48017643101064,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026-09-07,26.4,77,3.65,5.53116838421697,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026-09-08,26.6,78,3.83,5.48042585886109,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026-09-09,26.2,80,3.8,5.34370604770044,Low confidence,Higher-than-average output is mainly due to high humidity.
+2026-09-10,26,80,3.87,5.30157681988721,Low confidence,Higher-than-average output is mainly due to high humidity.
+2026-09-11,25.6,79,4.17,5.12051217291616,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026-09-12,25.4,75,3.93,5.30367732932258,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026-09-13,25.6,71,3.56,5.62011308724688,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026-09-14,26.9,63,4.56,5.80028603099569,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.

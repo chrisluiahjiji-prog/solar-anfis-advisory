@@ -1,0 +1,41 @@
+Date,Temp,Humidity,Wind,PredictedIrradiance,Confidence,Explanation
+2026-07-20,25.4,91,1.03,4.60171224653702,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-07-21,26.7,88,1.35,5.04294913240022,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-07-22,26.3,89,1.17,5.13627444766533,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-07-23,26.5,88,1.82,4.74690816448193,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-07-24,26.1,88,1.47,4.83563046326974,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-07-25,27.1,85,1.7,4.89273920010327,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-07-26,26.3,89,1.49,4.92098601176867,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-07-27,26,91,1.28,5.20640902890928,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-07-28,25.7,92,1.29,5.17504972995543,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-07-29,25.4,93,2.1,4.89127205669713,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-07-30,25.4,95,1.83,5.0342155347187,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-07-31,25.6,93,1.91,5.08302827893855,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-08-01,24.3,98,2.53,2.68879962161245,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2026-08-02,24.9,94,2.02,4.37205922476967,Low confidence,Lower-than-average output is mainly due to high humidity and low wind and cooler temperature.
+2026-08-03,24.8,93,1.83,4.27092098985246,Low confidence,Lower-than-average output is mainly due to high humidity and low wind and cooler temperature.
+2026-08-04,25,95,2.02,4.44507182497995,Low confidence,Lower-than-average output is mainly due to high humidity and low wind and cooler temperature.
+2026-08-05,25.7,90,1.95,5.01137493773925,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-08-06,25.4,91,1.77,5.08400480038177,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-08-07,24.4,97,2.4,2.89008060333522,Low confidence,Lower-than-average output is mainly due to high humidity and cooler temperature.
+2026-08-08,24.8,94,2.13,4.12030235401597,Low confidence,Lower-than-average output is mainly due to high humidity and low wind and cooler temperature.
+2026-08-09,26.1,89,2.9,4.98007689063861,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-08-10,26.6,88,2.71,4.91949087576071,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-08-11,26.6,87,2.95,4.99481287160322,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-08-12,26.4,89,1.98,4.77248597864563,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-08-13,26,90,1.52,5.00913280027961,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-08-14,25.6,92,1.85,5.10342222133746,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-08-15,25.8,89,1.67,4.95845372260056,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-08-16,26.3,88,1.89,4.75798262931012,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-08-17,26.3,88,1.63,4.7859295459784,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-08-18,26.2,87,2.31,4.89762961314132,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-08-19,26.7,86,3.31,4.8748013995498,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-08-20,26.9,84,3.41,4.67761844377714,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-08-21,26.7,84,3.2,4.93264022572604,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-08-22,25.7,90,1.91,5.01944732458064,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-08-23,26.3,88,2.29,4.85419990369339,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-08-24,24.7,96,1.46,2.94837832609967,Low confidence,Lower-than-average output is mainly due to high humidity and low wind and cooler temperature.
+2026-08-25,24.9,96,1.48,3.77682901102485,Low confidence,Lower-than-average output is mainly due to high humidity and low wind and cooler temperature.
+2026-08-26,25.5,91,1.6,5.09736975016132,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-08-27,26.4,88,2.24,4.81290371611863,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.
+2026-08-28,25.9,90,2.11,4.92435904466551,Low confidence,Lower-than-average output is mainly due to high humidity and low wind.

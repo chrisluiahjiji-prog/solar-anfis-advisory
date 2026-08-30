@@ -1,0 +1,41 @@
+Date,Temp,Humidity,Wind,PredictedIrradiance,Confidence,Explanation
+2026-07-20,25.1,83,4.29,4.80983987335922,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-07-21,26.7,76,4.16,5.35419550683546,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026-07-22,26.5,77,4.2,5.29845072253218,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026-07-23,26.9,73,4.36,5.17317626934029,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026-07-24,26.7,75,4.03,5.3989890808397,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026-07-25,26.9,74,3.62,5.61399850073234,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026-07-26,26.4,75,4.84,4.81654769075288,Low confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026-07-27,26.1,78,5,4.6944116260753,Low confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026-07-28,26.4,77,5.51,4.7268003853635,Low confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026-07-29,26,79,5.53,4.40613940272867,Low confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026-07-30,26.1,79,5.65,4.46487124190946,Low confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026-07-31,26.4,77,5.1,4.77295257521831,Low confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026-08-01,23.4,94,4.53,3.05815968838737,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-08-02,24.6,85,4.38,4.52297477473359,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-08-03,24.8,85,4.23,4.65222160783205,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-08-04,25,84,3.52,5.0587061089173,Low confidence,Higher-than-average output is mainly due to high humidity.
+2026-08-05,25.2,82,3.87,5.09928717716447,Low confidence,Higher-than-average output is mainly due to high humidity.
+2026-08-06,25,84,4.26,4.74673443492748,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-08-07,23.9,90,4.36,3.87703165870524,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-08-08,24.4,87,4.11,4.45069329789319,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-08-09,25.6,82,3.88,5.13844192405007,Low confidence,Higher-than-average output is mainly due to high humidity.
+2026-08-10,25.8,81,3.66,5.29665365390399,Low confidence,Higher-than-average output is mainly due to high humidity.
+2026-08-11,26.1,80,3.79,5.33907879901448,Low confidence,Higher-than-average output is mainly due to high humidity.
+2026-08-12,26.2,79,3.97,5.3292146660633,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026-08-13,25.6,81,4.16,5.06994252679086,Low confidence,Higher-than-average output is mainly due to high humidity.
+2026-08-14,25.6,81,3.83,5.22316845961247,Low confidence,Higher-than-average output is mainly due to high humidity.
+2026-08-15,25.5,80,4.58,4.80710103885829,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-08-16,26.2,76,4.67,4.89170211950456,Low confidence,Lower-than-average output is mainly due to typical mid-range weather conditions.
+2026-08-17,25.8,78,4.26,5.11241144356045,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026-08-18,26.2,76,3.88,5.41045586357334,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026-08-19,26,81,3.48,5.34273572635241,Low confidence,Higher-than-average output is mainly due to high humidity.
+2026-08-20,25.6,84,3.35,5.07841719583872,Low confidence,Higher-than-average output is mainly due to high humidity.
+2026-08-21,25.8,77,4.27,5.10798021768945,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026-08-22,25.4,80,4.58,4.78009869022833,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-08-23,26.3,76,4.47,5.05648407202892,Low confidence,Higher-than-average output is mainly due to typical mid-range weather conditions.
+2026-08-24,24.9,83,4.59,4.5678237327554,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-08-25,24,91,4.48,3.74065316611304,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-08-26,24.8,86,4.36,4.50451647284106,Low confidence,Lower-than-average output is mainly due to high humidity.
+2026-08-27,25.7,82,3.86,5.15087878356869,Low confidence,Higher-than-average output is mainly due to high humidity.
+2026-08-28,25.3,83,4.02,4.98055517182959,Low confidence,Lower-than-average output is mainly due to high humidity.
