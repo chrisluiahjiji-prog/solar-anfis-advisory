@@ -24,7 +24,7 @@ no MATLAB, no manual data refresh required.
 
 - **Inputs:** temperature, relative humidity, wind speed (daily)
 - **Output:** solar irradiance (kWh/m²/day) — a direct proxy for panel output
-- **Data source:** [NASA POWER](https://power.larc.nasa.gov/), Jan 2020–Jul 2026
+- **Data source:** [NASA POWER](https://power.larc.nasa.gov/), Jan 2020–current day
 - **Model:** first-order Sugeno ANFIS, 3 Gaussian membership functions per
   input, trained in MATLAB's Fuzzy Logic Toolbox (grid partitioning, 27
   rules per location)
